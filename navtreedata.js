@@ -46,7 +46,7 @@ var NAVTREE =
     [ "CONTRIBUTION GUIDELINES", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html", [
       [ "Before contributing", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md13", null ],
       [ "Contributing", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md14", [
-        [ "Maintainer/developer", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md15", null ],
+        [ "Maintainer/reviewer", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md15", null ],
         [ "Contributor", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md16", null ],
         [ "Making Changes", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md17", [
           [ "Code", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md18", null ],
@@ -122,9 +122,9 @@ var NAVTREEINDEX =
 [
 "annotated.html",
 "d4/d7b/problem__6_2sol_8c.html",
-"d7/d98/spirograph_8c.html#a525335710b53cb064ca56b936120431e",
-"dc/d9a/group__quats.html#ga8cc5e5b7a5fa492423ecf034c8bb52bd",
-"globals_func_s.html"
+"d7/d98/spirograph_8c.html#a0daa148091ec953809fc172289f773d3",
+"dc/d39/selection__sort__recursive_8c.html#aa2bc8bdd2e8ce289a6b8ef528fd1a534",
+"dir_bd4a7dd282074645ef41b1ea31ac813a.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
