@@ -121,10 +121,10 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "annotated.html",
-"d4/d7b/problem__6_2sol_8c.html",
-"d7/d98/spirograph_8c.html#a0daa148091ec953809fc172289f773d3",
-"dc/d39/selection__sort__recursive_8c.html#aa2bc8bdd2e8ce289a6b8ef528fd1a534",
-"dir_bd4a7dd282074645ef41b1ea31ac813a.html"
+"d4/d73/struct_m_e_m_o_r_y___i_n_f_o_r_m_a_t_i_o_n.html#a731603550d2238abb179f2b572f20d99",
+"d7/d91/problem__15_2sol1_8c.html",
+"dc/d32/problem__5_2sol1_8c.html#a24b470eef1ce1da4401c03ae250f93e3",
+"dir_b2dbfa46230fd9f775c32c1836ed3764.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
